@@ -10,8 +10,8 @@
     "target_path": "kernel/motorola/omap4-common"
   },
  { 
-   "repository": "TheMuppets/proprietary_vendor_samsung", 
-   "target_path": "vendor/samsung", 
+   "repository": "TheMuppets/proprietary_vendor_motorola", 
+   "target_path": "vendor/motorola", 
    "branch": "cm-11.0" 
  } 
 ]
